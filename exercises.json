@@ -1,0 +1,4223 @@
+[
+    {
+        "Id": "1101",
+        "Name": "Crunches",
+        "Details": "Lie on your back, knees bent, and feet flat. Lift your shoulders off the ground and contract your abs.",
+        "Muscle": "Abs",
+        "Equipment": "Mat",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1102",
+        "Name": "Leg Raises",
+        "Details": "Lie flat and lift your legs until they form a 90-degree angle, then lower slowly.",
+        "Muscle": "Abs",
+        "Equipment": "Mat",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1103",
+        "Name": "Plank",
+        "Details": "Hold a straight body position with forearms and toes on the ground.",
+        "Muscle": "Abs",
+        "Equipment": "Mat",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1104",
+        "Name": "Russian Twists (No Weight)",
+        "Details": "Sit with knees bent, lean back slightly, and twist your torso side to side.",
+        "Muscle": "Abs",
+        "Equipment": "Mat",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1105",
+        "Name": "Seated Knee Tucks",
+        "Details": "Sit on a bench, support yourself with your hands, and bring your knees to your chest.",
+        "Muscle": "Abs",
+        "Equipment": "Bench",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1106",
+        "Name": "Mountain Climbers",
+        "Details": "In a plank position, alternate driving your knees toward your chest.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1107",
+        "Name": "Bicycle Crunches",
+        "Details": "Alternate elbow-to-knee crunches in a cycling motion.",
+        "Muscle": "Abs",
+        "Equipment": "Mat",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1108",
+        "Name": "Dead Bug",
+        "Details": "Lie on your back with arms and legs extended. Lower opposite limbs while keeping your core tight.",
+        "Muscle": "Abs",
+        "Equipment": "Mat",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1109",
+        "Name": "Ab Machine Crunches",
+        "Details": "Use an ab crunch machine for guided resistance movements.",
+        "Muscle": "Abs",
+        "Equipment": "Ab Crunch Machine",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "1110",
+        "Name": "Cable Crunches",
+        "Details": "Kneel with a cable rope overhead and crunch downward.",
+        "Muscle": "Abs",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "1111",
+        "Name": "Sit-Ups",
+        "Details": "Lie on your back, feet flat, and knees bent. Sit up fully, then return.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1112",
+        "Name": "Plank Shoulder Taps",
+        "Details": "In a plank position, tap each shoulder alternately.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1113",
+        "Name": "Reverse Crunches",
+        "Details": "Lie on your back and lift your hips as you bring your knees toward your chest.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1114",
+        "Name": "Side Plank",
+        "Details": "Hold a straight side position on one forearm, switching sides after 30 seconds.",
+        "Muscle": "Abs",
+        "Equipment": "Mat",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1115",
+        "Name": "Heel Touches",
+        "Details": "Lie on your back, knees bent, and alternate reaching toward each heel.",
+        "Muscle": "Abs",
+        "Equipment": "Mat",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1116",
+        "Name": "Flutter Kicks",
+        "Details": "Lie flat and perform small, alternating leg lifts.",
+        "Muscle": "Abs",
+        "Equipment": "Mat",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1117",
+        "Name": "Standing Side Crunches",
+        "Details": "Stand straight and alternate crunching to each side.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1118",
+        "Name": "Bird Dog",
+        "Details": "On all fours, extend opposite limbs while keeping your core engaged.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1119",
+        "Name": "Wall Plank",
+        "Details": "Hold a plank position with your feet against the wall for stability.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1120",
+        "Name": "Standing Knee Raises",
+        "Details": "Alternate lifting your knees toward your chest.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1201",
+        "Name": "Weighted Russian Twists",
+        "Details": "Perform Russian twists holding a weight or medicine ball.",
+        "Muscle": "Abs",
+        "Equipment": "Medicine Ball or Dumbbell",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1202",
+        "Name": "Hanging Leg Raises",
+        "Details": "Hang from a bar and lift your legs to 90 degrees.",
+        "Muscle": "Abs",
+        "Equipment": "Pull-Up Bar",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "1203",
+        "Name": "Incline Sit-Ups",
+        "Details": "Use an incline bench to perform sit-ups with greater range.",
+        "Muscle": "Abs",
+        "Equipment": "Incline Bench",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "1204",
+        "Name": "Stability Ball Crunches",
+        "Details": "Perform crunches on a stability ball for added core activation.",
+        "Muscle": "Abs",
+        "Equipment": "Stability Ball",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1205",
+        "Name": "Ab Wheel Rollouts",
+        "Details": "Roll out on an ab wheel, keeping your core tight.",
+        "Muscle": "Abs",
+        "Equipment": "Ab Wheel",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1206",
+        "Name": "Side Plank with Leg Lift",
+        "Details": "Perform a side plank and lift the top leg.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1207",
+        "Name": "Weighted Sit-Ups",
+        "Details": "Perform sit-ups while holding a weight plate.",
+        "Muscle": "Abs",
+        "Equipment": "Weight Plate",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "1208",
+        "Name": "Cable Woodchoppers",
+        "Details": "Pull a cable diagonally downward, engaging your obliques.",
+        "Muscle": "Abs",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "1209",
+        "Name": "Mountain Climbers with Sliders",
+        "Details": "Use sliders under your feet for mountain climbers.",
+        "Muscle": "Abs",
+        "Equipment": "Sliders",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1210",
+        "Name": "Reverse Plank",
+        "Details": "Hold a plank position facing upward, supporting yourself on your hands and heels.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1211",
+        "Name": "V-Ups",
+        "Details": "Simultaneously lift your legs and torso to form a V shape.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1212",
+        "Name": "Plank to Elbow Touch",
+        "Details": "Alternate touching your elbows while maintaining a plank.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1213",
+        "Name": "Side V-Ups",
+        "Details": "Lie on your side and lift your legs and torso together.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1214",
+        "Name": "Tuck Plank",
+        "Details": "Alternate pulling knees toward your chest in a plank position.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1215",
+        "Name": "Superman Plank",
+        "Details": "Extend one arm and the opposite leg while holding a plank.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1216",
+        "Name": "Standing Oblique Crunches",
+        "Details": "Stand upright and alternate side crunches.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1217",
+        "Name": "Hollow Body Hold",
+        "Details": "Lie flat, lift your shoulders and legs slightly, and hold.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1218",
+        "Name": "Bicycle Twists with Resistance Band",
+        "Details": "Use a resistance band to add difficulty to bicycle crunches.",
+        "Muscle": "Abs",
+        "Equipment": "Resistance Band",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1219",
+        "Name": "Dynamic Side Plank",
+        "Details": "Move your hips up and down while holding a side plank.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1220",
+        "Name": "Marching Bridge",
+        "Details": "Lie on your back and alternate lifting each knee in a glute bridge position.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1301",
+        "Name": "Dragon Flags",
+        "Details": "Lie on a bench, hold the edge, and lift your body straight like a flag.",
+        "Muscle": "Abs",
+        "Equipment": "Bench",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "1302",
+        "Name": "Toes-to-Bar",
+        "Details": "Hang from a pull-up bar and bring your toes to touch the bar.",
+        "Muscle": "Abs",
+        "Equipment": "Pull-up Bar",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "1303",
+        "Name": "Barbell Rollouts",
+        "Details": "Use a loaded barbell to perform rollouts.",
+        "Muscle": "Abs",
+        "Equipment": "Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "1304",
+        "Name": "Windshield Wipers",
+        "Details": "Hang from a bar and swing your legs side to side.",
+        "Muscle": "Abs",
+        "Equipment": "Pull-up Bar",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "1305",
+        "Name": "Weighted Side Plank",
+        "Details": "Hold a weight plate while maintaining a side plank.",
+        "Muscle": "Abs",
+        "Equipment": "Weight Plate",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "1306",
+        "Name": "Decline Russian Twists",
+        "Details": "Perform twists on a decline bench with a weight.",
+        "Muscle": "Abs",
+        "Equipment": "Decline Bench, Dumbbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "1307",
+        "Name": "L-Sit on Parallel Bars",
+        "Details": "Hold an L-sit position on parallel bars.",
+        "Muscle": "Abs",
+        "Equipment": "Parallel Bars",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "1308",
+        "Name": "Kettlebell Windmills",
+        "Details": "Hold a kettlebell overhead and perform side bends.",
+        "Muscle": "Abs",
+        "Equipment": "Kettlebell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "1309",
+        "Name": "Cable Reverse Crunches",
+        "Details": "Use a cable machine to add resistance to reverse crunches.",
+        "Muscle": "Abs",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "1310",
+        "Name": "Weighted Hanging Leg Raises",
+        "Details": "Perform leg raises with a dumbbell between your feet.",
+        "Muscle": "Abs",
+        "Equipment": "Pull-up Bar, Dumbbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "1311",
+        "Name": "Standing Rollouts with Towel",
+        "Details": "Use a towel on a smooth floor for rollouts.",
+        "Muscle": "Abs",
+        "Equipment": "Towel",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1312",
+        "Name": "Single-Arm Plank with Dumbbell Row",
+        "Details": "Hold a plank while performing dumbbell rows with one arm.",
+        "Muscle": "Abs",
+        "Equipment": "Dumbbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "1313",
+        "Name": "Side Plank with Hip Lift and Twist",
+        "Details": "Perform a hip lift followed by a torso twist in a side plank.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1314",
+        "Name": "Plank Jack with Resistance Band",
+        "Details": "Use a band around your legs for added resistance during plank jacks.",
+        "Muscle": "Abs",
+        "Equipment": "Resistance Band",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1315",
+        "Name": "Dynamic Dragon Flags",
+        "Details": "Perform dragon flags with controlled lowering and raising.",
+        "Muscle": "Abs",
+        "Equipment": "Mat",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1316",
+        "Name": "Advanced V-Ups with Medicine Ball",
+        "Details": "Hold a medicine ball for added resistance.",
+        "Muscle": "Abs",
+        "Equipment": "Medicine Ball",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1317",
+        "Name": "Bicycle Kicks with Dumbbells",
+        "Details": "Hold a dumbbell during bicycle kicks.",
+        "Muscle": "Abs",
+        "Equipment": "Dumbbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "1318",
+        "Name": "Handstand Plank",
+        "Details": "Hold a plank with feet elevated against the wall.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1319",
+        "Name": "Archer Plank",
+        "Details": "In a plank position, extend one arm to the side.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "1320",
+        "Name": "Explosive Knees-to-Elbow",
+        "Details": "Jump into a high plank, driving your knees toward your elbows.",
+        "Muscle": "Abs",
+        "Equipment": "None",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "2101",
+        "Name": "Bent-Over Rows (Dumbbell)",
+        "Details": "Hinge at the hips, keep your back straight, and row the dumbbells to your waist.",
+        "Muscle": "Back",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "2102",
+        "Name": "Resistance Band Rows",
+        "Details": "Attach a band to an anchor and pull it towards your body.",
+        "Muscle": "Back",
+        "Equipment": "Resistance Bands",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "2103",
+        "Name": "Superman Hold",
+        "Details": "Lie on your stomach and raise your arms, chest, and legs off the floor.",
+        "Muscle": "Back",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "2104",
+        "Name": "Lat Pulldown (Assisted)",
+        "Details": "Use a lat pulldown machine with light resistance.",
+        "Muscle": "Back",
+        "Equipment": "Lat Pulldown Machine",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "2105",
+        "Name": "Reverse Flys",
+        "Details": "With dumbbells, bend slightly forward and move your arms outward like wings.",
+        "Muscle": "Back",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "2106",
+        "Name": "T-Bar Rows (Light)",
+        "Details": "Use a T-bar row machine with minimal weight.",
+        "Muscle": "Back",
+        "Equipment": "T-Bar Row Machine",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "2107",
+        "Name": "Seated Cable Rows",
+        "Details": "Pull the cable handle towards your torso, keeping your back straight.",
+        "Muscle": "Back",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "2108",
+        "Name": "Bird Dog",
+        "Details": "Alternate extending opposite arms and legs while keeping your torso stable.",
+        "Muscle": "Back",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "2109",
+        "Name": "Good Mornings",
+        "Details": "Hinge forward from the hips with a light barbell on your back.",
+        "Muscle": "Back",
+        "Equipment": "Light Barbell",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "2110",
+        "Name": "Back Extensions",
+        "Details": "Use a back extension bench to strengthen the lower back.",
+        "Muscle": "Back",
+        "Equipment": "Back Extension Bench",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "2111",
+        "Name": "Face Pulls",
+        "Details": "Use a cable machine to pull towards your face.",
+        "Muscle": "Back",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "2112",
+        "Name": "Dead Hangs",
+        "Details": "Simply hang from a bar to decompress the spine.",
+        "Muscle": "Back",
+        "Equipment": "Pull-Up Bar",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "2113",
+        "Name": "Reverse Shrugs",
+        "Details": "Hang from a bar and shrug your shoulders downward.",
+        "Muscle": "Back",
+        "Equipment": "Pull-Up Bar",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "2114",
+        "Name": "Chest-Supported Rows",
+        "Details": "Use a bench to stabilize your chest and row dumbbells.",
+        "Muscle": "Back",
+        "Equipment": "Bench, Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "2115",
+        "Name": "Prone Y-Raise",
+        "Details": "Lie face down and lift your arms into a \"Y\" shape.",
+        "Muscle": "Back",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "2116",
+        "Name": "Superman Hold",
+        "Details": "Lie face down, lift arms and legs off the ground, and hold for a few seconds.",
+        "Muscle": "Back",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "2117",
+        "Name": "Reverse Snow Angels",
+        "Details": "Lie face down, lift arms slightly off the ground, and mimic snow angel movements.",
+        "Muscle": "Back",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "2201",
+        "Name": "Pull-Ups (Weighted)",
+        "Details": "Perform pull-ups with a weighted vest or plate.",
+        "Muscle": "Back",
+        "Equipment": "Pull-Up Bar, Weighted Vest or Plate",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "2202",
+        "Name": "Barbell Bent-Over Rows",
+        "Details": "Use a barbell to row heavier weights.",
+        "Muscle": "Back",
+        "Equipment": "Barbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "2203",
+        "Name": "T-Bar Rows",
+        "Details": "Perform rows with a T-bar attachment for more load.",
+        "Muscle": "Back",
+        "Equipment": "T-Bar Row Machine",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "2204",
+        "Name": "Lat Pulldown (Heavy)",
+        "Details": "Increase weight on the lat pulldown machine.",
+        "Muscle": "Back",
+        "Equipment": "Lat Pulldown Machine",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "2205",
+        "Name": "Seated Cable Rows",
+        "Details": "Use heavier resistance on a cable row machine.",
+        "Muscle": "Back",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "2206",
+        "Name": "Single-Arm Dumbbell Rows",
+        "Details": "Perform rows with a heavier dumbbell for each arm.",
+        "Muscle": "Back",
+        "Equipment": "Dumbbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "2207",
+        "Name": "Deadlifts",
+        "Details": "Focus on proper form to lift heavier weights safely.",
+        "Muscle": "Back",
+        "Equipment": "Barbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "2208",
+        "Name": "Inverted Rows",
+        "Details": "Perform rows under a barbell while suspended at an angle.",
+        "Muscle": "Back",
+        "Equipment": "Barbell, Rack",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "2209",
+        "Name": "Face Pulls (Moderate Weight)",
+        "Details": "Use a cable machine to target upper back and rear delts.",
+        "Muscle": "Back",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "2210",
+        "Name": "Chest-Supported Machine Rows",
+        "Details": "Row with heavier weight on a chest-supported machine.",
+        "Muscle": "Back",
+        "Equipment": "Chest-Supported Row Machine",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "2211",
+        "Name": "Reverse Grip Barbell Rows",
+        "Details": "Use an underhand grip for more biceps activation.",
+        "Muscle": "Back",
+        "Equipment": "Barbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "2212",
+        "Name": "Good Mornings (Moderate Weight)",
+        "Details": "Perform with a barbell to strengthen the lower back.",
+        "Muscle": "Back",
+        "Equipment": "Barbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "2213",
+        "Name": "Renegade Rows",
+        "Details": "Perform rows while holding a plank with dumbbells.",
+        "Muscle": "Back",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "2214",
+        "Name": "Wide-Grip Pull-Ups",
+        "Details": "Use a wider grip to emphasize the lats.",
+        "Muscle": "Back",
+        "Equipment": "Pull-Up Bar",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "2215",
+        "Name": "Hyperextensions (Weighted)",
+        "Details": "Add a plate while performing back extensions.",
+        "Muscle": "Back",
+        "Equipment": "Back Extension Bench, Plate",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "2216",
+        "Name": "Towel Rows",
+        "Details": "Wrap a towel around a sturdy object and pull yourself toward it while leaning back.",
+        "Muscle": "Back",
+        "Equipment": "Towel, Sturdy Object",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "2217",
+        "Name": "Door Frame Pull-Ups",
+        "Details": "Use a strong door frame to perform pull-ups if available.",
+        "Muscle": "Back",
+        "Equipment": "Door Frame",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "2218",
+        "Name": "Single-Arm Rows with Backpack",
+        "Details": "Fill a backpack with books and perform rows for each arm.",
+        "Muscle": "Back",
+        "Equipment": "Backpack",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "2301",
+        "Name": "Weighted Pull-Ups (Heavy)",
+        "Details": "Use a dip belt with multiple weight plates for pull-ups.",
+        "Muscle": "Back",
+        "Equipment": "Dip Belt, Weight Plates",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "2302",
+        "Name": "Deficit Deadlifts",
+        "Details": "Perform deadlifts standing on a platform for increased range of motion.",
+        "Muscle": "Back",
+        "Equipment": "Barbell, Platform",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "2303",
+        "Name": "Seal Rows",
+        "Details": "Lie face down on a bench and row a barbell with no body momentum.",
+        "Muscle": "Back",
+        "Equipment": "Barbell, Bench",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "2304",
+        "Name": "T-Bar Rows (Heavy)",
+        "Details": "Perform T-bar rows with significantly increased weight.",
+        "Muscle": "Back",
+        "Equipment": "T-Bar Row Machine, Weight Plates",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "2305",
+        "Name": "One-Arm Pull-Ups",
+        "Details": "Progress to single-arm pull-ups with assistance if needed.",
+        "Muscle": "Back",
+        "Equipment": "Pull-Up Bar, Assistance",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "2306",
+        "Name": "Snatch Grip Deadlifts",
+        "Details": "Use a wide grip for deadlifts to increase back engagement.",
+        "Muscle": "Back",
+        "Equipment": "Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "2307",
+        "Name": "Reverse Grip Barbell Rows (Heavy)",
+        "Details": "Use an underhand grip and heavy weight for rows.",
+        "Muscle": "Back",
+        "Equipment": "Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "2308",
+        "Name": "Chest-Supported Dumbbell Rows",
+        "Details": "Perform rows with heavy dumbbells on a chest-supported bench.",
+        "Muscle": "Back",
+        "Equipment": "Dumbbells, Chest-Supported Bench",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "2309",
+        "Name": "Weighted Wide-Grip Pull-Ups",
+        "Details": "Add weight and use a wide grip to target the lats.",
+        "Muscle": "Back",
+        "Equipment": "Dip Belt, Pull-Up Bar",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "2310",
+        "Name": "Meadows Rows",
+        "Details": "Perform rows with a barbell secured in a landmine attachment.",
+        "Muscle": "Back",
+        "Equipment": "Landmine Attachment, Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "2311",
+        "Name": "Kroc Rows",
+        "Details": "Perform heavy, high-rep dumbbell rows with proper form.",
+        "Muscle": "Back",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "2312",
+        "Name": "Lat Pullover (Heavy)",
+        "Details": "Use a dumbbell or barbell for weighted pullovers.",
+        "Muscle": "Back",
+        "Equipment": "Dumbbell or Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "2313",
+        "Name": "Reverse Band Deadlifts",
+        "Details": "Attach resistance bands to assist during the lift.",
+        "Muscle": "Back",
+        "Equipment": "Barbell, Resistance Bands",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "2314",
+        "Name": "Weighted Inverted Rows",
+        "Details": "Place a weight plate on your chest while doing rows.",
+        "Muscle": "Back",
+        "Equipment": "Weight Plate, Barbell or Smith Machine",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "2315",
+        "Name": "Deadlifts with Chains",
+        "Details": "Attach chains to the barbell for varying resistance.",
+        "Muscle": "Back",
+        "Equipment": "Barbell, Chains",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "3101",
+        "Name": "Bicep Curls (Dumbbell)",
+        "Details": "Stand and curl dumbbells with palms facing upward.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "3102",
+        "Name": "Hammer Curls",
+        "Details": "Use a neutral grip for a biceps and forearm workout.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "3103",
+        "Name": "Resistance Band Curls",
+        "Details": "Attach a band to a stable surface and curl.",
+        "Muscle": "Biceps",
+        "Equipment": "Resistance Bands",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "3104",
+        "Name": "Concentration Curls",
+        "Details": "Rest your elbow on your thigh and curl a dumbbell.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbell",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "3105",
+        "Name": "Incline Dumbbell Curls",
+        "Details": "Sit on an incline bench for a greater range of motion.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbells, Incline Bench",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "3106",
+        "Name": "Cable Curls (Light)",
+        "Details": "Use a cable machine with light resistance.",
+        "Muscle": "Biceps",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "3107",
+        "Name": "Zottman Curls",
+        "Details": "Combine regular curls and reverse curls.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "3108",
+        "Name": "Chin-Ups (Assisted)",
+        "Details": "Use a chin-up bar with assistance bands.",
+        "Muscle": "Biceps",
+        "Equipment": "Chin-Up Bar, Assistance Bands",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "3109",
+        "Name": "Seated Dumbbell Curls",
+        "Details": "Perform curls while seated for stability.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "3110",
+        "Name": "Preacher Curls (Light)",
+        "Details": "Use a preacher bench to isolate the biceps.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbell, Preacher Bench",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "3111",
+        "Name": "Isometric Hold",
+        "Details": "Hold a dumbbell in a half-curl position for time.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbell",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "3112",
+        "Name": "Reverse Curls",
+        "Details": "Use an overhand grip to curl.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "3113",
+        "Name": "Wide-Grip Barbell Curls",
+        "Details": "Curl a barbell with a wide grip.",
+        "Muscle": "Biceps",
+        "Equipment": "Barbell",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "3114",
+        "Name": "Slow Negative Curls",
+        "Details": "Lower the dumbbell slowly after curling.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbell",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "3115",
+        "Name": "Cross-Body Hammer Curls",
+        "Details": "Curl the dumbbell across your body.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "3116",
+        "Name": "Bicep Curls with Household Items",
+        "Details": "Use water bottles, cans, or filled bags to perform curls.",
+        "Muscle": "Biceps",
+        "Equipment": "Water Bottles, Cans, Filled Bags",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "3201",
+        "Name": "Barbell Curls",
+        "Details": "Perform curls with a barbell to lift heavier weights.",
+        "Muscle": "Biceps",
+        "Equipment": "Barbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "3202",
+        "Name": "Alternating Dumbbell Curls",
+        "Details": "Curl one arm at a time with heavier dumbbells.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "3203",
+        "Name": "Concentration Curls (Moderate Weight)",
+        "Details": "Increase the weight for each curl.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "3204",
+        "Name": "Incline Dumbbell Curls",
+        "Details": "Sit on an incline bench for a greater range of motion.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbells, Incline Bench",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "3205",
+        "Name": "Preacher Curls (Moderate Weight)",
+        "Details": "Isolate the biceps using a preacher bench with increased weight.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbell, Preacher Bench",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "3206",
+        "Name": "Hammer Curls (Heavy)",
+        "Details": "Use heavier dumbbells while maintaining proper form.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "3207",
+        "Name": "Cable Curls",
+        "Details": "Use a cable machine for continuous tension during curls.",
+        "Muscle": "Biceps",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "3208",
+        "Name": "Chin-Ups (Weighted)",
+        "Details": "Add weight to your body during chin-ups for added resistance.",
+        "Muscle": "Biceps",
+        "Equipment": "Chin-Up Bar, Weighted Vest",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "3209",
+        "Name": "Zottman Curls (Moderate Weight)",
+        "Details": "Curl with palms up and lower with palms down.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "3210",
+        "Name": "Spider Curls",
+        "Details": "Lie on an incline bench and let your arms hang for isolated curls.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbells, Incline Bench",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "3211",
+        "Name": "21s",
+        "Details": "Perform 7 lower-half curls, 7 upper-half curls, and 7 full-range curls.",
+        "Muscle": "Biceps",
+        "Equipment": "Barbell or Dumbbells",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "3212",
+        "Name": "Rope Cable Curls",
+        "Details": "Use a rope attachment on a cable machine.",
+        "Muscle": "Biceps",
+        "Equipment": "Cable Machine, Rope Attachment",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "3213",
+        "Name": "EZ-Bar Curls",
+        "Details": "Use an EZ bar to reduce wrist strain while curling.",
+        "Muscle": "Biceps",
+        "Equipment": "EZ Bar",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "3214",
+        "Name": "Reverse-Grip Cable Curls",
+        "Details": "Curl using an overhand grip with a cable machine.",
+        "Muscle": "Biceps",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "3215",
+        "Name": "Drop Set Curls",
+        "Details": "Start with a heavy weight, then reduce weight progressively without rest.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbells or Barbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "3216",
+        "Name": "Towel Isometric Curls",
+        "Details": "Pull against a towel held under your feet for resistance.",
+        "Muscle": "Biceps",
+        "Equipment": "Towel",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "3217",
+        "Name": "Chin-Ups (Door Frame)",
+        "Details": "If you have access to a sturdy door frame or pull-up bar, perform chin-ups.",
+        "Muscle": "Biceps",
+        "Equipment": "Door Frame, Pull-Up Bar",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "3218",
+        "Name": "Resistance Band Curls",
+        "Details": "Use resistance bands for controlled bicep curls if available.",
+        "Muscle": "Biceps",
+        "Equipment": "Resistance Bands",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "3301",
+        "Name": "Weighted Chin-Ups",
+        "Details": "Add significant weight to your body for chin-ups.",
+        "Muscle": "Biceps",
+        "Equipment": "Dip Belt, Weight Plate, Pull-Up Bar",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "3302",
+        "Name": "Barbell Curls with Chains",
+        "Details": "Use chains to add variable resistance during curls.",
+        "Muscle": "Biceps",
+        "Equipment": "Barbell, Chains",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "3303",
+        "Name": "Spider Curls (Heavy)",
+        "Details": "Use an incline bench to isolate the biceps with heavier weight.",
+        "Muscle": "Biceps",
+        "Equipment": "Barbell or Dumbbells, Incline Bench",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "3304",
+        "Name": "Zottman Curls (Heavy)",
+        "Details": "Curl with a heavy weight and lower slowly with a reverse grip.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "3305",
+        "Name": "Incline Dumbbell Curls (Drop Set)",
+        "Details": "Perform curls on an incline bench and reduce weight after failure.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbells, Incline Bench",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "3306",
+        "Name": "Hammer Curl to Shoulder Press",
+        "Details": "Curl heavy dumbbells and transition into a shoulder press.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "3307",
+        "Name": "Concentration Curls (Heavy)",
+        "Details": "Use heavy dumbbells for isolated curls with strict form.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "3308",
+        "Name": "Cable Rope Hammer Curls",
+        "Details": "Use a cable machine with a rope attachment for hammer curls.",
+        "Muscle": "Biceps",
+        "Equipment": "Cable Machine, Rope Attachment",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "3309",
+        "Name": "EZ Bar Drag Curls",
+        "Details": "Drag the barbell close to your body while curling.",
+        "Muscle": "Biceps",
+        "Equipment": "EZ Bar",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "3310",
+        "Name": "One-Arm Cable Curls",
+        "Details": "Use a cable machine to isolate one bicep at a time.",
+        "Muscle": "Biceps",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "3311",
+        "Name": "Preacher Curls (Heavy)",
+        "Details": "Increase the weight for preacher curls while maintaining form.",
+        "Muscle": "Biceps",
+        "Equipment": "Barbell or Dumbbell, Preacher Bench",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "3312",
+        "Name": "Incline Hammer Curls",
+        "Details": "Perform hammer curls on an incline bench for greater range of motion.",
+        "Muscle": "Biceps",
+        "Equipment": "Dumbbells, Incline Bench",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "3313",
+        "Name": "Reverse Grip Barbell Curls",
+        "Details": "Use an overhand grip for heavy barbell curls.",
+        "Muscle": "Biceps",
+        "Equipment": "Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "3314",
+        "Name": "Cheat Curls",
+        "Details": "Use slightly heavier weight and a controlled \"cheat\" for the final reps.",
+        "Muscle": "Biceps",
+        "Equipment": "Barbell or Dumbbells",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "3315",
+        "Name": "Biceps 21s (Heavy)",
+        "Details": "Perform 7 reps each of lower, upper, and full-range curls with increased weight.",
+        "Muscle": "Biceps",
+        "Equipment": "Barbell or Dumbbells",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "3316",
+        "Name": "Table Inverted Rows",
+        "Details": "Use a sturdy table to perform inverted rows for bicep engagement.",
+        "Muscle": "Biceps",
+        "Equipment": "Table",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4101",
+        "Name": "Treadmill Walking",
+        "Details": "Walk at a steady pace for 20–30 minutes.",
+        "Muscle": "Cardio",
+        "Equipment": "Treadmill",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "4102",
+        "Name": "Elliptical Training",
+        "Details": "Use the elliptical machine at a moderate pace.",
+        "Muscle": "Cardio",
+        "Equipment": "Elliptical",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "4103",
+        "Name": "Stationary Bike",
+        "Details": "Pedal at a comfortable pace for endurance building.",
+        "Muscle": "Cardio",
+        "Equipment": "Stationary bike",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "4104",
+        "Name": "Rowing Machine",
+        "Details": "Use the rowing machine for a full-body cardio workout.",
+        "Muscle": "Cardio",
+        "Equipment": "Rowing machine",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "4105",
+        "Name": "Step Machine",
+        "Details": "Perform slow and steady stepping.",
+        "Muscle": "Cardio",
+        "Equipment": "Step machine",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "4106",
+        "Name": "Incline Treadmill Walk",
+        "Details": "Walk on a treadmill with a slight incline.",
+        "Muscle": "Cardio",
+        "Equipment": "Treadmill",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "4107",
+        "Name": "Low-Impact Aerobics Class",
+        "Details": "Participate in beginner-friendly aerobics.",
+        "Muscle": "Cardio",
+        "Equipment": "Studio space and optional stepper",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "4108",
+        "Name": "Recumbent Bike",
+        "Details": "Pedal while sitting in a reclined position.",
+        "Muscle": "Cardio",
+        "Equipment": "Recumbent bike",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "4109",
+        "Name": "Cross Trainer",
+        "Details": "Simulate walking or running on a cross-trainer.",
+        "Muscle": "Cardio",
+        "Equipment": "Cross trainer",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "4110",
+        "Name": "Jump Rope (Light)",
+        "Details": "Perform slow-paced jumps for coordination and cardio.",
+        "Muscle": "Cardio",
+        "Equipment": "Jump rope",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4111",
+        "Name": "Battle Ropes (Light)",
+        "Details": "Perform simple waves with battle ropes for short bursts.",
+        "Muscle": "Cardio",
+        "Equipment": "Battle ropes",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "4112",
+        "Name": "Seated Arm Bike",
+        "Details": "Use an arm ergometer for low-impact cardio.",
+        "Muscle": "Cardio",
+        "Equipment": "Arm bike",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "4113",
+        "Name": "Circuit Training",
+        "Details": "Rotate between low-intensity cardio machines.",
+        "Muscle": "Cardio",
+        "Equipment": "Various gym machines",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "4114",
+        "Name": "Walking Lunges (Track)",
+        "Details": "Perform walking lunges along a gym track.",
+        "Muscle": "Cardio",
+        "Equipment": "Gym track",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "4115",
+        "Name": "Row-Push Intervals",
+        "Details": "Alternate between rowing and light push-ups.",
+        "Muscle": "Cardio",
+        "Equipment": "Rowing machine",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "4116",
+        "Name": "Marching in Place",
+        "Details": "Lift your knees and swing your arms while standing.",
+        "Muscle": "Cardio",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4117",
+        "Name": "High Knees (Slow Pace)",
+        "Details": "Alternate raising knees to hip level.",
+        "Muscle": "Cardio",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4118",
+        "Name": "Step-Ups (Staircase)",
+        "Details": "Step up and down on stairs or a sturdy platform.",
+        "Muscle": "Cardio",
+        "Equipment": "Stairs or sturdy surface",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4119",
+        "Name": "Side-Stepping",
+        "Details": "Step side-to-side for coordination and cardio.",
+        "Muscle": "Cardio",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4120",
+        "Name": "Arm Circles with Marching",
+        "Details": "Combine marching in place with arm circles.",
+        "Muscle": "Cardio",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4201",
+        "Name": "Running on Treadmill",
+        "Details": "Run at a moderate pace for 15–20 minutes.",
+        "Muscle": "Cardio",
+        "Equipment": "Treadmill",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "4202",
+        "Name": "Elliptical Sprints",
+        "Details": "Alternate between slow and fast paces.",
+        "Muscle": "Cardio",
+        "Equipment": "Elliptical",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "4203",
+        "Name": "HIIT Stationary Bike",
+        "Details": "Alternate between high and low-intensity pedaling.",
+        "Muscle": "Cardio",
+        "Equipment": "Stationary bike",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "4204",
+        "Name": "Rowing Sprints",
+        "Details": "Perform short bursts of fast rowing.",
+        "Muscle": "Cardio",
+        "Equipment": "Rowing machine",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "4205",
+        "Name": "Incline Walk/Run on Treadmill",
+        "Details": "Alternate between walking and running on an incline.",
+        "Muscle": "Cardio",
+        "Equipment": "Treadmill",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "4206",
+        "Name": "Box Jumps",
+        "Details": "Jump onto and off a sturdy box or platform.",
+        "Muscle": "Cardio",
+        "Equipment": "Plyo box",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4207",
+        "Name": "Battle Ropes Intervals",
+        "Details": "Alternate between fast waves and rest periods.",
+        "Muscle": "Cardio",
+        "Equipment": "Battle ropes",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "4208",
+        "Name": "Jump Rope Intervals",
+        "Details": "Perform short bursts of fast-paced jumps.",
+        "Muscle": "Cardio",
+        "Equipment": "Jump rope",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4209",
+        "Name": "Stair Climber",
+        "Details": "Use the stair climber at a moderate pace.",
+        "Muscle": "Cardio",
+        "Equipment": "Stair climber",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "4210",
+        "Name": "Row-Push-Pull Circuit",
+        "Details": "Combine rowing, push-ups, and sled pulls.",
+        "Muscle": "Cardio",
+        "Equipment": "Rowing machine, sled",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "4211",
+        "Name": "Spin Class",
+        "Details": "Participate in an intermediate-level spin class.",
+        "Muscle": "Cardio",
+        "Equipment": "Spin bike",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "4212",
+        "Name": "Treadmill Intervals",
+        "Details": "Alternate between walking, jogging, and running.",
+        "Muscle": "Cardio",
+        "Equipment": "Treadmill",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "4213",
+        "Name": "Medicine Ball Slams",
+        "Details": "Slam a medicine ball onto the ground and catch it.",
+        "Muscle": "Cardio",
+        "Equipment": "Medicine ball",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4214",
+        "Name": "Kettlebell Swings",
+        "Details": "Perform swings to elevate your heart rate.",
+        "Muscle": "Cardio",
+        "Equipment": "Kettlebell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "4215",
+        "Name": "Burpee-to-Row Circuit",
+        "Details": "Combine burpees with rowing intervals.",
+        "Muscle": "Cardio",
+        "Equipment": "Rowing machine",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "4216",
+        "Name": "Jump Squats",
+        "Details": "Perform squats with an explosive jump.",
+        "Muscle": "Cardio",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4217",
+        "Name": "Mountain Climbers",
+        "Details": "Alternate driving your knees to your chest.",
+        "Muscle": "Cardio",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4218",
+        "Name": "Skater Jumps",
+        "Details": "Jump laterally, mimicking a skating motion.",
+        "Muscle": "Cardio",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4219",
+        "Name": "Plank Jacks",
+        "Details": "In a plank, jump your feet in and out.",
+        "Muscle": "Cardio",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4220",
+        "Name": "Dynamic Side Lunges",
+        "Details": "Alternate lunging to each side quickly.",
+        "Muscle": "Cardio",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4301",
+        "Name": "Treadmill Sprints",
+        "Details": "Perform short, high-speed intervals on a treadmill.",
+        "Muscle": "Cardio",
+        "Equipment": "Treadmill",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "4302",
+        "Name": "Stair Sprints",
+        "Details": "Run up and down gym/home stairs rapidly.",
+        "Muscle": "Cardio",
+        "Equipment": "Stairs",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4303",
+        "Name": "Rowing Machine Tabata",
+        "Details": "Perform 20 seconds of fast rowing followed by 10 seconds rest.",
+        "Muscle": "Cardio",
+        "Equipment": "Rowing machine",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "4304",
+        "Name": "Battle Rope Slams",
+        "Details": "Slam the ropes with full power for short intervals.",
+        "Muscle": "Cardio",
+        "Equipment": "Battle ropes",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "4305",
+        "Name": "Weighted Jump Rope",
+        "Details": "Use a weighted jump rope for increased intensity.",
+        "Muscle": "Cardio",
+        "Equipment": "Weighted jump rope",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "4306",
+        "Name": "Box Jump Burpees",
+        "Details": "Perform a burpee, then jump onto a box.",
+        "Muscle": "Cardio",
+        "Equipment": "Plyo box",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4307",
+        "Name": "Treadmill Hill Sprints",
+        "Details": "Sprint on a treadmill at maximum incline.",
+        "Muscle": "Cardio",
+        "Equipment": "Treadmill",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "4308",
+        "Name": "Spin Bike Sprints",
+        "Details": "Perform maximum effort sprints on a spin bike.",
+        "Muscle": "Cardio",
+        "Equipment": "Spin bike",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "4309",
+        "Name": "Sled Pushes",
+        "Details": "Push a weighted sled across the gym floor.",
+        "Muscle": "Cardio",
+        "Equipment": "Sled",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "4310",
+        "Name": "Kettlebell Swing Intervals",
+        "Details": "Alternate between fast swings and rest periods.",
+        "Muscle": "Cardio",
+        "Equipment": "Kettlebell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "4311",
+        "Name": "Medicine Ball Tosses",
+        "Details": "Toss a medicine ball overhead or against a wall.",
+        "Muscle": "Cardio",
+        "Equipment": "Medicine ball",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4312",
+        "Name": "Jump Rope Double Unders",
+        "Details": "Perform double unders with a jump rope.",
+        "Muscle": "Cardio",
+        "Equipment": "Jump rope",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4313",
+        "Name": "Rowing and Sprint Combo",
+        "Details": "Alternate between 500m rowing and 400m sprinting.",
+        "Muscle": "Cardio",
+        "Equipment": "Rowing machine, Track",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "4314",
+        "Name": "Tire Flips",
+        "Details": "Flip a large tire across a set distance.",
+        "Muscle": "Cardio",
+        "Equipment": "Tire",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "4315",
+        "Name": "Power Clean and Jerk",
+        "Details": "Combine weightlifting with fast-paced cardio bursts.",
+        "Muscle": "Cardio",
+        "Equipment": "Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "4316",
+        "Name": "Burpee Pull-Ups",
+        "Details": "Combine burpees with pull-ups.",
+        "Muscle": "Cardio",
+        "Equipment": "Pull-up bar",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "4317",
+        "Name": "Plyometric Lunges",
+        "Details": "Jump explosively between lunge positions.",
+        "Muscle": "Cardio",
+        "Equipment": "None",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4318",
+        "Name": "Spider-Man Push-Ups",
+        "Details": "Perform push-ups with knee drives toward elbows.",
+        "Muscle": "Cardio",
+        "Equipment": "None",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4319",
+        "Name": "Broad Jumps",
+        "Details": "Perform long jumps in rapid succession.",
+        "Muscle": "Cardio",
+        "Equipment": "None",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "4320",
+        "Name": "Jumping Jacks with Resistance Bands",
+        "Details": "Use a band for added resistance.",
+        "Muscle": "Cardio",
+        "Equipment": "Resistance band",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "5101",
+        "Name": "Push-Ups",
+        "Details": "Keep a straight body and lower yourself until your chest almost touches the ground.",
+        "Muscle": "Chest",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "5102",
+        "Name": "Incline Push-Ups",
+        "Details": "Use a raised platform to make push-ups easier.",
+        "Muscle": "Chest",
+        "Equipment": "Raised Platform",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "5103",
+        "Name": "Knee Push-Ups",
+        "Details": "Push-ups performed on your knees for reduced difficulty.",
+        "Muscle": "Chest",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "5104",
+        "Name": "Chest Dips (Assisted)",
+        "Details": "Use a dip station with assistance.",
+        "Muscle": "Chest",
+        "Equipment": "Dip Station",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "5105",
+        "Name": "Dumbbell Bench Press",
+        "Details": "Lie on a bench and press dumbbells upward.",
+        "Muscle": "Chest",
+        "Equipment": "Dumbbells, Bench",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "5106",
+        "Name": "Dumbbell Flys",
+        "Details": "Lie on a bench and open arms wide before bringing them together.",
+        "Muscle": "Chest",
+        "Equipment": "Dumbbells, Bench",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "5107",
+        "Name": "Incline Dumbbell Press",
+        "Details": "Press dumbbells on an inclined bench.",
+        "Muscle": "Chest",
+        "Equipment": "Dumbbells, Inclined Bench",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "5108",
+        "Name": "Chest Stretch",
+        "Details": "Use a wall or doorway to stretch the chest.",
+        "Muscle": "Chest",
+        "Equipment": "Wall or Doorway",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "5109",
+        "Name": "Wall Push-Ups",
+        "Details": "Push-ups performed against a wall.",
+        "Muscle": "Chest",
+        "Equipment": "Wall",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "5110",
+        "Name": "Cable Crossovers (Light)",
+        "Details": "Use cable machines with light weight.",
+        "Muscle": "Chest",
+        "Equipment": "Cable Machines",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "5111",
+        "Name": "Plank to Push-Up",
+        "Details": "Transition between a plank and push-up position.",
+        "Muscle": "Chest",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "5112",
+        "Name": "Dumbbell Pullover",
+        "Details": "Lie on a bench and pull a dumbbell from behind your head.",
+        "Muscle": "Chest",
+        "Equipment": "Dumbbell, Bench",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "5113",
+        "Name": "Wide-Grip Push-Ups",
+        "Details": "Hands placed wider than shoulder width.",
+        "Muscle": "Chest",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "5114",
+        "Name": "Band Chest Flys",
+        "Details": "Use resistance bands to mimic flys.",
+        "Muscle": "Chest",
+        "Equipment": "Resistance Bands",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "5115",
+        "Name": "Push-Ups",
+        "Details": "Perform standard push-ups to target the chest.",
+        "Muscle": "Chest",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "5116",
+        "Name": "Incline Push-Ups",
+        "Details": "Place your hands on an elevated surface to target the upper chest.",
+        "Muscle": "Chest",
+        "Equipment": "Elevated Surface",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "5201",
+        "Name": "Flat Barbell Bench Press",
+        "Details": "Use a barbell to lift heavier weight than in beginner dumbbell presses.",
+        "Muscle": "Chest",
+        "Equipment": "Barbell, Bench",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "5202",
+        "Name": "Incline Barbell Bench Press",
+        "Details": "Target the upper chest by pressing on an incline bench.",
+        "Muscle": "Chest",
+        "Equipment": "Barbell, Incline Bench",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "5203",
+        "Name": "Chest Dips (Bodyweight)",
+        "Details": "Perform dips without assistance to build chest strength.",
+        "Muscle": "Chest",
+        "Equipment": "Parallel Bars",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "5204",
+        "Name": "Weighted Push-Ups",
+        "Details": "Add a weight plate on your back during push-ups.",
+        "Muscle": "Chest",
+        "Equipment": "Weight Plate",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "5205",
+        "Name": "Incline Dumbbell Flys",
+        "Details": "Perform flys on an incline bench to emphasize the upper chest.",
+        "Muscle": "Chest",
+        "Equipment": "Dumbbells, Incline Bench",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "5206",
+        "Name": "Cable Crossovers",
+        "Details": "Use cables with moderate weight to target the chest muscles.",
+        "Muscle": "Chest",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "5207",
+        "Name": "Decline Barbell Bench Press",
+        "Details": "Press from a decline position for lower chest activation.",
+        "Muscle": "Chest",
+        "Equipment": "Barbell, Decline Bench",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "5208",
+        "Name": "Machine Chest Press",
+        "Details": "Use a chest press machine with heavier resistance.",
+        "Muscle": "Chest",
+        "Equipment": "Chest Press Machine",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "5209",
+        "Name": "Archer Push-Ups",
+        "Details": "Shift your weight side-to-side during push-ups to isolate each side of the chest.",
+        "Muscle": "Chest",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "5210",
+        "Name": "Dumbbell Pullover",
+        "Details": "Lie on a bench and pull a heavy dumbbell from behind your head.",
+        "Muscle": "Chest",
+        "Equipment": "Dumbbell, Bench",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "5211",
+        "Name": "Clapping Push-Ups",
+        "Details": "Add an explosive clap during push-ups to build power.",
+        "Muscle": "Chest",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "5212",
+        "Name": "Plyometric Push-Ups",
+        "Details": "Push yourself off the ground during push-ups for explosive strength.",
+        "Muscle": "Chest",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "5213",
+        "Name": "Landmine Press",
+        "Details": "Use a landmine bar attachment to press at an angle.",
+        "Muscle": "Chest",
+        "Equipment": "Landmine Bar Attachment",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "5214",
+        "Name": "Resistance Band Push-Ups",
+        "Details": "Add resistance bands around your back for added tension.",
+        "Muscle": "Chest",
+        "Equipment": "Resistance Bands",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "5215",
+        "Name": "Close-Grip Bench Press",
+        "Details": "Use a narrower grip to target inner chest and triceps.",
+        "Muscle": "Chest",
+        "Equipment": "Barbell, Bench",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "5216",
+        "Name": "Decline Push-Ups",
+        "Details": "Place your feet on an elevated surface for lower chest focus.",
+        "Muscle": "Chest",
+        "Equipment": "Elevated Surface",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "5217",
+        "Name": "Wide-Grip Push-Ups",
+        "Details": "Place your hands wider than shoulder-width to emphasize the chest muscles.",
+        "Muscle": "Chest",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "5301",
+        "Name": "Weighted Dips (Heavy)",
+        "Details": "Use a dip belt with a heavy weight plate for dips.",
+        "Muscle": "Chest",
+        "Equipment": "Dip Belt, Weight Plate",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "5302",
+        "Name": "Incline Bench Press (Heavy)",
+        "Details": "Increase the incline and lift a heavier barbell.",
+        "Muscle": "Chest",
+        "Equipment": "Barbell, Incline Bench",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "5303",
+        "Name": "Deficit Push-Ups",
+        "Details": "Perform push-ups with hands on elevated platforms for a deeper range of motion.",
+        "Muscle": "Chest",
+        "Equipment": "Elevated Platforms",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "5304",
+        "Name": "Ring Push-Ups",
+        "Details": "Use gymnastics rings to perform push-ups, challenging stability.",
+        "Muscle": "Chest",
+        "Equipment": "Gymnastics Rings",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "5305",
+        "Name": "Explosive Plyometric Push-Ups",
+        "Details": "Push off the ground explosively, aiming for maximum height.",
+        "Muscle": "Chest",
+        "Equipment": "None",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "5306",
+        "Name": "Paused Bench Press",
+        "Details": "Pause at the bottom of the lift for 2–3 seconds to increase strength.",
+        "Muscle": "Chest",
+        "Equipment": "Barbell, Bench",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "5307",
+        "Name": "Cable Crossover Flys (High Intensity)",
+        "Details": "Perform flys with heavier weight on the cable machine.",
+        "Muscle": "Chest",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "5308",
+        "Name": "Incline Dumbbell Flys (Heavy)",
+        "Details": "Use heavier dumbbells to challenge the upper chest.",
+        "Muscle": "Chest",
+        "Equipment": "Dumbbells, Incline Bench",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "5309",
+        "Name": "Single-Arm Dumbbell Bench Press",
+        "Details": "Perform bench presses with one arm for unilateral strength.",
+        "Muscle": "Chest",
+        "Equipment": "Dumbbell, Bench",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "5310",
+        "Name": "Spoto Press",
+        "Details": "Stop the barbell just above the chest before pressing back up.",
+        "Muscle": "Chest",
+        "Equipment": "Barbell, Bench",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "5311",
+        "Name": "Weighted Ring Dips",
+        "Details": "Perform dips on rings with a weighted vest or dip belt.",
+        "Muscle": "Chest",
+        "Equipment": "Rings, Dip Belt",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "5312",
+        "Name": "Guillotine Press",
+        "Details": "Bench press with the barbell closer to the neck to target the upper chest.",
+        "Muscle": "Chest",
+        "Equipment": "Barbell, Bench",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "5313",
+        "Name": "Landmine Press with Bands",
+        "Details": "Attach resistance bands to a landmine press setup.",
+        "Muscle": "Chest",
+        "Equipment": "Landmine Bar, Bands",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "5314",
+        "Name": "Floor Press",
+        "Details": "Lie on the floor and perform presses with a barbell or dumbbells.",
+        "Muscle": "Chest",
+        "Equipment": "Barbell or Dumbbells",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "5315",
+        "Name": "Chest Press with Chains",
+        "Details": "Add chains to a barbell for varying resistance during the lift.",
+        "Muscle": "Chest",
+        "Equipment": "Barbell, Chains",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "5316",
+        "Name": "Chest Dips Using Chairs",
+        "Details": "Use two sturdy chairs to dip and work the chest muscles.",
+        "Muscle": "Chest",
+        "Equipment": "Chairs",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "6101",
+        "Name": "Wrist Curls",
+        "Details": "Sit on a bench holding a dumbbell in one hand. Rest your forearm on your thigh, wrist hanging off. Curl the dumbbell upward using your wrist.",
+        "Muscle": "Forearms",
+        "Equipment": "Dumbbell",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "6102",
+        "Name": "Reverse Wrist Curls",
+        "Details": "Same as wrist curls, but with palms facing down.",
+        "Muscle": "Forearms",
+        "Equipment": "Dumbbell",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "6103",
+        "Name": "Farmer’s Walk",
+        "Details": "Hold heavy dumbbells in each hand and walk a short distance.",
+        "Muscle": "Forearms",
+        "Equipment": "Dumbbell",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "6104",
+        "Name": "Finger Extensions",
+        "Details": "Wrap a rubber band around your fingers and extend them outward.",
+        "Muscle": "Forearms",
+        "Equipment": "Rubber Band",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "6105",
+        "Name": "Dead Hangs",
+        "Details": "Hang from a pull-up bar as long as possible.",
+        "Muscle": "Forearms",
+        "Equipment": "Pull-Up Bar",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "6106",
+        "Name": "Plate Pinches",
+        "Details": "Pinch weight plates together and hold.",
+        "Muscle": "Forearms",
+        "Equipment": "Weight Plates",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "6107",
+        "Name": "Hammer Curls",
+        "Details": "Use a neutral grip to perform bicep curls.",
+        "Muscle": "Forearms",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "6108",
+        "Name": "Hand Gripper Squeezes",
+        "Details": "Squeeze a hand gripper for grip strength.",
+        "Muscle": "Forearms",
+        "Equipment": "Hand Gripper",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "6109",
+        "Name": "Barbell Hold",
+        "Details": "Hold a barbell at arm's length for time.",
+        "Muscle": "Forearms",
+        "Equipment": "Barbell",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "6110",
+        "Name": "Towel Twists",
+        "Details": "Twist a towel as if wringing out water.",
+        "Muscle": "Forearms",
+        "Equipment": "Towel",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "6111",
+        "Name": "Forearm Stretch",
+        "Details": "Stretch wrists and forearms after workouts.",
+        "Muscle": "Forearms",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "6112",
+        "Name": "Zottman Curls",
+        "Details": "Perform a curl with a supinated grip and lower with a pronated grip.",
+        "Muscle": "Forearms",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "6113",
+        "Name": "Reverse Dumbbell Curls",
+        "Details": "Use an overhand grip for curls.",
+        "Muscle": "Forearms",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "6114",
+        "Name": "Ball Squeezes",
+        "Details": "Squeeze a stress ball repeatedly.",
+        "Muscle": "Forearms",
+        "Equipment": "Stress Ball",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "6115",
+        "Name": "Rope Pulls",
+        "Details": "Simulate pulling a rope against resistance.",
+        "Muscle": "Forearms",
+        "Equipment": "Rope",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "6116",
+        "Name": "Wrist Curls with Water Bottles",
+        "Details": "Use filled water bottles to curl your wrists while seated.",
+        "Muscle": "Forearms",
+        "Equipment": "Water Bottles",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "6117",
+        "Name": "Reverse Wrist Curls",
+        "Details": "Hold a light object like a can or water bottle with your palm facing down and curl upward.",
+        "Muscle": "Forearms",
+        "Equipment": "Can, Water Bottle",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "6201",
+        "Name": "Barbell Wrist Curls",
+        "Details": "Sit on a bench, rest forearms on thighs, and curl a barbell upward using only your wrists.",
+        "Muscle": "Forearms",
+        "Equipment": "Barbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "6202",
+        "Name": "Reverse Barbell Curls",
+        "Details": "Use an overhand grip to curl the barbell, targeting forearms.",
+        "Muscle": "Forearms",
+        "Equipment": "Barbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "6203",
+        "Name": "Towel Pull-Ups",
+        "Details": "Wrap a towel around a pull-up bar and perform pull-ups for grip strength.",
+        "Muscle": "Forearms",
+        "Equipment": "Towel, Pull-Up Bar",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "6204",
+        "Name": "Heavy Farmer’s Walk",
+        "Details": "Hold heavier dumbbells or kettlebells and walk a longer distance.",
+        "Muscle": "Forearms",
+        "Equipment": "Dumbbells or Kettlebells",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "6205",
+        "Name": "Plate Pinch Holds",
+        "Details": "Pinch two weight plates together and hold for time.",
+        "Muscle": "Forearms",
+        "Equipment": "Weight Plates",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "6206",
+        "Name": "Wrist Roller",
+        "Details": "Use a wrist roller device to roll weight up and down.",
+        "Muscle": "Forearms",
+        "Equipment": "Wrist Roller",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "6207",
+        "Name": "Dead Hangs with Weight",
+        "Details": "Hang from a pull-up bar while wearing a weighted vest or holding a dumbbell.",
+        "Muscle": "Forearms",
+        "Equipment": "Pull-Up Bar, Weighted Vest",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "6208",
+        "Name": "Reverse Grip Deadlift",
+        "Details": "Perform deadlifts using an overhand grip to challenge forearms.",
+        "Muscle": "Forearms",
+        "Equipment": "Barbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "6209",
+        "Name": "Thick Bar Training",
+        "Details": "Use a thicker barbell or dumbbell to increase grip difficulty.",
+        "Muscle": "Forearms",
+        "Equipment": "Thick Barbell or Dumbbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "6210",
+        "Name": "Hammer Strength Curls",
+        "Details": "Use a neutral grip with heavy dumbbells for forearm activation.",
+        "Muscle": "Forearms",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "6211",
+        "Name": "Forearm Plank Walkouts",
+        "Details": "Plank on your forearms and \"walk\" forward and backward.",
+        "Muscle": "Forearms",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "6212",
+        "Name": "Rope Climbs",
+        "Details": "Climb a rope to work forearms and grip.",
+        "Muscle": "Forearms",
+        "Equipment": "Rope",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "6213",
+        "Name": "Cable Reverse Curls",
+        "Details": "Use a cable machine for reverse curls with resistance.",
+        "Muscle": "Forearms",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "6214",
+        "Name": "Sledgehammer Swings",
+        "Details": "Swing a sledgehammer against a tire for grip strength.",
+        "Muscle": "Forearms",
+        "Equipment": "Sledgehammer, Tire",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "6215",
+        "Name": "Isometric Grip Holds",
+        "Details": "Squeeze a heavy dumbbell or kettlebell handle for as long as possible.",
+        "Muscle": "Forearms",
+        "Equipment": "Dumbbell or Kettlebell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "6216",
+        "Name": "Towel Grip Holds",
+        "Details": "Wrap a towel around a heavy object or door handle and hold for as long as possible.",
+        "Muscle": "Forearms",
+        "Equipment": "Towel, Heavy Object",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "6217",
+        "Name": "Finger Squeezes with Stress Ball",
+        "Details": "Squeeze a stress ball or a tennis ball to build finger and forearm strength.",
+        "Muscle": "Forearms",
+        "Equipment": "Stress Ball or Tennis Ball",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "6301",
+        "Name": "One-Arm Barbell Wrist Curl",
+        "Details": "Perform wrist curls with one arm using a barbell for increased instability and focus.",
+        "Muscle": "Forearms",
+        "Equipment": "Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "6302",
+        "Name": "Reverse Wrist Roller",
+        "Details": "Use a wrist roller device with a reverse grip for maximum forearm engagement.",
+        "Muscle": "Forearms",
+        "Equipment": "Wrist Roller",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "6303",
+        "Name": "Towel Deadlifts",
+        "Details": "Wrap towels around the barbell to challenge grip strength.",
+        "Muscle": "Forearms",
+        "Equipment": "Barbell, Towels",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "6304",
+        "Name": "One-Hand Dead Hangs",
+        "Details": "Hang from a pull-up bar using one hand for grip endurance.",
+        "Muscle": "Forearms",
+        "Equipment": "Pull-Up Bar",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "6305",
+        "Name": "Thick Bar Deadlifts",
+        "Details": "Use a thick barbell or bar attachment to increase grip challenge.",
+        "Muscle": "Forearms",
+        "Equipment": "Thick Barbell or Attachment",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "6306",
+        "Name": "Forearm Plate Rotations",
+        "Details": "Rotate a weight plate in your hands, gripping the rim.",
+        "Muscle": "Forearms",
+        "Equipment": "Weight Plate",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "6307",
+        "Name": "Barbell Reverse Curls (Heavy)",
+        "Details": "Use a barbell with significant weight for reverse curls.",
+        "Muscle": "Forearms",
+        "Equipment": "Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "6308",
+        "Name": "Wrist Roller Extensions",
+        "Details": "Roll weight upward with palms facing down.",
+        "Muscle": "Forearms",
+        "Equipment": "Wrist Roller",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "6309",
+        "Name": "Farmer’s Walk (Heavy)",
+        "Details": "Use very heavy kettlebells or dumbbells and walk for time or distance.",
+        "Muscle": "Forearms",
+        "Equipment": "Kettlebells or Dumbbells",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "6310",
+        "Name": "Reverse Grip Pull-Ups",
+        "Details": "Use an underhand grip for pull-ups, focusing on forearm activation.",
+        "Muscle": "Forearms",
+        "Equipment": "Pull-Up Bar",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "6311",
+        "Name": "Finger Curls",
+        "Details": "Curl a barbell using only your fingers for grip isolation.",
+        "Muscle": "Forearms",
+        "Equipment": "Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "6312",
+        "Name": "Towel Rope Climbs",
+        "Details": "Climb a rope using towels wrapped around it for grip work.",
+        "Muscle": "Forearms",
+        "Equipment": "Rope, Towels",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "6313",
+        "Name": "Heavy Static Barbell Holds",
+        "Details": "Hold a barbell with significant weight for as long as possible.",
+        "Muscle": "Forearms",
+        "Equipment": "Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "6314",
+        "Name": "Lever Bar Training",
+        "Details": "Use a lever bar to perform wrist flexion and extension exercises.",
+        "Muscle": "Forearms",
+        "Equipment": "Lever Bar",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "6315",
+        "Name": "Kettlebell Bottoms-Up Press",
+        "Details": "Press a kettlebell with the bottom facing upward to challenge grip.",
+        "Muscle": "Forearms",
+        "Equipment": "Kettlebell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "6316",
+        "Name": "Reverse Push-Ups",
+        "Details": "Perform push-ups on your knuckles with your fingers facing your body.",
+        "Muscle": "Forearms",
+        "Equipment": "None",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7101",
+        "Name": "Bodyweight Squats",
+        "Details": "Stand shoulder-width apart and lower your hips as if sitting in a chair.",
+        "Muscle": "Legs",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7102",
+        "Name": "Lunges",
+        "Details": "Step forward with one leg and lower your body until both knees are bent at 90 degrees.",
+        "Muscle": "Legs",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7103",
+        "Name": "Glute Bridges",
+        "Details": "Lie on your back, bend your knees, and lift your hips.",
+        "Muscle": "Legs",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7104",
+        "Name": "Wall Sit",
+        "Details": "Sit against a wall with knees at 90 degrees and hold the position.",
+        "Muscle": "Legs",
+        "Equipment": "Wall",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7105",
+        "Name": "Step-Ups",
+        "Details": "Step onto a platform or bench, alternating legs.",
+        "Muscle": "Legs",
+        "Equipment": "Platform or Bench",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7106",
+        "Name": "Calf Raises",
+        "Details": "Raise your heels off the ground, then lower back down.",
+        "Muscle": "Legs",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7107",
+        "Name": "Side Lunges",
+        "Details": "Step out to the side, bending one knee while keeping the other straight.",
+        "Muscle": "Legs",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7108",
+        "Name": "Bulgarian Split Squats (Assisted)",
+        "Details": "Use a chair for support and perform a split squat.",
+        "Muscle": "Legs",
+        "Equipment": "Chair",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7109",
+        "Name": "Resistance Band Squats",
+        "Details": "Perform squats with a band around your thighs for resistance.",
+        "Muscle": "Legs",
+        "Equipment": "Resistance Band",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7110",
+        "Name": "Donkey Kicks",
+        "Details": "On all fours, kick one leg back and upward.",
+        "Muscle": "Legs",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7111",
+        "Name": "Sumo Squats",
+        "Details": "Take a wider stance than regular squats to target inner thighs.",
+        "Muscle": "Legs",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7112",
+        "Name": "Leg Extensions (Light)",
+        "Details": "Use a leg extension machine with light weight.",
+        "Muscle": "Legs",
+        "Equipment": "Leg Extension Machine",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "7113",
+        "Name": "Hamstring Curls (Stability Ball)",
+        "Details": "Lie on your back with your feet on a ball and curl it towards you.",
+        "Muscle": "Legs",
+        "Equipment": "Stability Ball",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7114",
+        "Name": "Heel Walks",
+        "Details": "Walk on your heels to target the shins.",
+        "Muscle": "Legs",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7115",
+        "Name": "Reverse Lunges",
+        "Details": "Step backward instead of forward during lunges.",
+        "Muscle": "Legs",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7116",
+        "Name": "Bodyweight Squats",
+        "Details": "Perform regular squats using your body weight.",
+        "Muscle": "Legs",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7201",
+        "Name": "Barbell Back Squats",
+        "Details": "Perform squats with a barbell on your shoulders for added resistance.",
+        "Muscle": "Legs",
+        "Equipment": "Barbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "7202",
+        "Name": "Romanian Deadlifts",
+        "Details": "Use a barbell or dumbbells to target hamstrings and glutes.",
+        "Muscle": "Legs",
+        "Equipment": "Barbell or Dumbbells",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "7203",
+        "Name": "Walking Lunges (Weighted)",
+        "Details": "Hold dumbbells while performing walking lunges.",
+        "Muscle": "Legs",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "7204",
+        "Name": "Bulgarian Split Squats",
+        "Details": "Rest one leg on a bench and perform squats with added weight.",
+        "Muscle": "Legs",
+        "Equipment": "Dumbbells or Barbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "7205",
+        "Name": "Step-Ups (Weighted)",
+        "Details": "Use dumbbells or a barbell while stepping onto a bench or platform.",
+        "Muscle": "Legs",
+        "Equipment": "Dumbbells or Barbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "7206",
+        "Name": "Leg Press (Moderate Weight)",
+        "Details": "Use a leg press machine with increased resistance.",
+        "Muscle": "Legs",
+        "Equipment": "Leg Press Machine",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "7207",
+        "Name": "Goblet Squats (Heavy)",
+        "Details": "Hold a heavier dumbbell or kettlebell close to your chest while squatting.",
+        "Muscle": "Legs",
+        "Equipment": "Dumbbell or Kettlebell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "7208",
+        "Name": "Calf Raises (Weighted)",
+        "Details": "Hold dumbbells or use a barbell for weighted calf raises.",
+        "Muscle": "Legs",
+        "Equipment": "Dumbbells or Barbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "7209",
+        "Name": "Sumo Deadlifts",
+        "Details": "Use a wider stance to target inner thighs and glutes.",
+        "Muscle": "Legs",
+        "Equipment": "Barbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "7210",
+        "Name": "Side Lunges (Weighted)",
+        "Details": "Perform side lunges while holding a dumbbell or kettlebell.",
+        "Muscle": "Legs",
+        "Equipment": "Dumbbell or Kettlebell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "7211",
+        "Name": "Single-Leg Romanian Deadlifts",
+        "Details": "Perform deadlifts on one leg with dumbbells.",
+        "Muscle": "Legs",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "7212",
+        "Name": "Hamstring Curls (Machine)",
+        "Details": "Use a hamstring curl machine with heavier resistance.",
+        "Muscle": "Legs",
+        "Equipment": "Hamstring Curl Machine",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "7213",
+        "Name": "Box Jumps",
+        "Details": "Jump onto a sturdy box or platform for explosive power.",
+        "Muscle": "Legs",
+        "Equipment": "Box or Platform",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7214",
+        "Name": "Kettlebell Swings",
+        "Details": "Use a kettlebell for explosive hip thrusts and leg activation.",
+        "Muscle": "Legs",
+        "Equipment": "Kettlebell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "7215",
+        "Name": "Front Squats",
+        "Details": "Perform squats with the barbell in front of your shoulders for quad emphasis.",
+        "Muscle": "Legs",
+        "Equipment": "Barbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "7216",
+        "Name": "Wall Sits",
+        "Details": "Hold a seated position against a wall for time to engage quads.",
+        "Muscle": "Legs",
+        "Equipment": "Wall",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7217",
+        "Name": "Lunges",
+        "Details": "Perform alternating lunges in place or walking lunges if space permits.",
+        "Muscle": "Legs",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7218",
+        "Name": "Calf Raises on Stairs",
+        "Details": "Use a stair step to perform slow and controlled calf raises.",
+        "Muscle": "Legs",
+        "Equipment": "Stairs",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7219",
+        "Name": "Single-Leg Romanian Deadlifts",
+        "Details": "Use a household item for balance while hinging at the hips on one leg.",
+        "Muscle": "Legs",
+        "Equipment": "Household Item",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "7301",
+        "Name": "Back Squats (Heavy)",
+        "Details": "Perform squats with a barbell and progressively overload.",
+        "Muscle": "Legs",
+        "Equipment": "Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "7302",
+        "Name": "Front Squats (Paused Reps)",
+        "Details": "Pause at the bottom of each rep for added difficulty.",
+        "Muscle": "Legs",
+        "Equipment": "Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "7303",
+        "Name": "Bulgarian Split Squats (Weighted)",
+        "Details": "Use a barbell or dumbbells for maximum resistance.",
+        "Muscle": "Legs",
+        "Equipment": "Barbell or Dumbbells",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "7304",
+        "Name": "Romanian Deadlifts (Heavy)",
+        "Details": "Lift heavier weights while maintaining proper hamstring engagement.",
+        "Muscle": "Legs",
+        "Equipment": "Barbell or Dumbbells",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "7305",
+        "Name": "Sumo Deadlifts (Heavy)",
+        "Details": "Use a wider stance and lift heavier weights for inner thigh activation.",
+        "Muscle": "Legs",
+        "Equipment": "Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "7306",
+        "Name": "Deficit Deadlifts",
+        "Details": "Perform deadlifts while standing on a platform for increased range of motion.",
+        "Muscle": "Legs",
+        "Equipment": "Barbell, Platform",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "7307",
+        "Name": "Pistol Squats (Weighted)",
+        "Details": "Hold a kettlebell or dumbbell while performing single-leg squats.",
+        "Muscle": "Legs",
+        "Equipment": "Kettlebell or Dumbbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "7308",
+        "Name": "Box Step-Ups with Barbell",
+        "Details": "Step onto a high box with a barbell on your back.",
+        "Muscle": "Legs",
+        "Equipment": "Barbell, Box",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "7309",
+        "Name": "Walking Lunges (Barbell)",
+        "Details": "Perform walking lunges with a barbell across your shoulders.",
+        "Muscle": "Legs",
+        "Equipment": "Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "7310",
+        "Name": "Leg Press (Heavy)",
+        "Details": "Load the leg press machine with significant weight for high resistance.",
+        "Muscle": "Legs",
+        "Equipment": "Leg Press Machine",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "7311",
+        "Name": "Calf Raises on Smith Machine",
+        "Details": "Use a Smith machine for controlled and heavy calf raises.",
+        "Muscle": "Legs",
+        "Equipment": "Smith Machine",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "7312",
+        "Name": "Kettlebell Swings (Heavy)",
+        "Details": "Use a heavier kettlebell for explosive hip thrusts and leg activation.",
+        "Muscle": "Legs",
+        "Equipment": "Kettlebell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "7313",
+        "Name": "Trap Bar Deadlifts",
+        "Details": "Perform deadlifts using a trap bar for reduced strain on the lower back.",
+        "Muscle": "Legs",
+        "Equipment": "Trap Bar",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "7314",
+        "Name": "Overhead Barbell Walking Lunges",
+        "Details": "Hold a barbell overhead while lunging to challenge stability.",
+        "Muscle": "Legs",
+        "Equipment": "Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "7315",
+        "Name": "Sled Pushes",
+        "Details": "Load a sled with heavy weight and push it across a track for explosive leg power.",
+        "Muscle": "Legs",
+        "Equipment": "Sled",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "8101",
+        "Name": "Overhead Dumbbell Press",
+        "Details": "Sit or stand holding dumbbells at shoulder level and press upward.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "8102",
+        "Name": "Front Raises",
+        "Details": "Hold dumbbells in front of you and lift them to shoulder height.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "8103",
+        "Name": "Lateral Raises",
+        "Details": "Raise dumbbells to your sides until shoulder height, keeping arms straight.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "8104",
+        "Name": "Rear Delt Flys",
+        "Details": "Bend forward slightly and raise dumbbells outward to target the rear deltoids.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "8105",
+        "Name": "Arnold Press",
+        "Details": "Start with dumbbells in front of your shoulders, palms facing you, and rotate outward as you press overhead.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "8106",
+        "Name": "Shoulder Shrugs",
+        "Details": "Hold dumbbells and shrug your shoulders upward.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "8107",
+        "Name": "Resistance Band Shoulder Press",
+        "Details": "Use a band anchored under your feet and press upward.",
+        "Muscle": "Shoulders",
+        "Equipment": "Resistance Bands",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "8108",
+        "Name": "Plank to Side Arm Raise",
+        "Details": "Transition from a plank to raising one arm outward.",
+        "Muscle": "Shoulders",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "8109",
+        "Name": "Pike Push-Ups",
+        "Details": "Assume a downward dog position and perform push-ups.",
+        "Muscle": "Shoulders",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "8110",
+        "Name": "Cable Front Raises (Light)",
+        "Details": "Use a cable machine with light resistance.",
+        "Muscle": "Shoulders",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "8111",
+        "Name": "Scaption",
+        "Details": "Hold dumbbells at your sides and raise them diagonally.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "8112",
+        "Name": "Dumbbell Push Press",
+        "Details": "Add a slight leg push to help press dumbbells overhead.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "8113",
+        "Name": "Seated Dumbbell Press",
+        "Details": "Press dumbbells overhead while seated to isolate shoulders.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells, Bench",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "8114",
+        "Name": "Shoulder Taps",
+        "Details": "In a plank position, touch each shoulder alternately.",
+        "Muscle": "Shoulders",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "8115",
+        "Name": "Overhead Plate Hold",
+        "Details": "Hold a weight plate overhead for time to build endurance.",
+        "Muscle": "Shoulders",
+        "Equipment": "Weight Plate",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "8116",
+        "Name": "Arm Circles",
+        "Details": "Perform small and large circular motions with extended arms.",
+        "Muscle": "Shoulders",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "8201",
+        "Name": "Overhead Barbell Press",
+        "Details": "Press a barbell overhead while standing for full shoulder engagement.",
+        "Muscle": "Shoulders",
+        "Equipment": "Barbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "8202",
+        "Name": "Arnold Press (Moderate Weight)",
+        "Details": "Rotate dumbbells during the press for a wider range of motion.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "8203",
+        "Name": "Cable Lateral Raises",
+        "Details": "Use a cable machine for constant tension during lateral raises.",
+        "Muscle": "Shoulders",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "8204",
+        "Name": "Dumbbell Front Raises (Heavy)",
+        "Details": "Use heavier dumbbells and lift to shoulder height.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "8205",
+        "Name": "Bent-Over Rear Delt Flys (Heavy)",
+        "Details": "Increase weight while maintaining proper form.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "8206",
+        "Name": "Face Pulls (Moderate Weight)",
+        "Details": "Use a rope attachment on a cable machine to target rear delts.",
+        "Muscle": "Shoulders",
+        "Equipment": "Cable Machine, Rope Attachment",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "8207",
+        "Name": "Seated Dumbbell Press",
+        "Details": "Perform overhead presses seated for stability.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells, Bench",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "8208",
+        "Name": "Landmine Press",
+        "Details": "Use a landmine bar attachment for pressing at an angle.",
+        "Muscle": "Shoulders",
+        "Equipment": "Landmine Bar Attachment",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "8209",
+        "Name": "Dumbbell Shrugs",
+        "Details": "Use heavier dumbbells to target traps.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "8210",
+        "Name": "Plate Front Raises",
+        "Details": "Hold a weight plate with both hands and lift to shoulder height.",
+        "Muscle": "Shoulders",
+        "Equipment": "Weight Plate",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "8211",
+        "Name": "Push Press",
+        "Details": "Use leg drive to help press a barbell overhead.",
+        "Muscle": "Shoulders",
+        "Equipment": "Barbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "8212",
+        "Name": "Upright Rows",
+        "Details": "Use a barbell or dumbbells to row up to your chin.",
+        "Muscle": "Shoulders",
+        "Equipment": "Barbell or Dumbbells",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "8213",
+        "Name": "Single-Arm Dumbbell Press",
+        "Details": "Press one dumbbell at a time for unilateral work.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "8214",
+        "Name": "Incline Dumbbell Lateral Raises",
+        "Details": "Perform lateral raises while lying on an incline bench.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells, Incline Bench",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "8215",
+        "Name": "Around-the-Worlds",
+        "Details": "Use light dumbbells to move arms in a circular motion from thighs to overhead.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "8216",
+        "Name": "Pike Push-Ups",
+        "Details": "Perform push-ups with hips raised to target the shoulders.",
+        "Muscle": "Shoulders",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "8217",
+        "Name": "Front Raises with Water Bottles",
+        "Details": "Use water bottles to lift arms to shoulder height.",
+        "Muscle": "Shoulders",
+        "Equipment": "Water Bottles",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "8218",
+        "Name": "Lateral Raises with Backpack",
+        "Details": "Hold a light backpack in each hand and raise arms sideways.",
+        "Muscle": "Shoulders",
+        "Equipment": "Backpack",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "8301",
+        "Name": "Barbell Overhead Press (Heavy)",
+        "Details": "Lift heavier weights for strict overhead presses while standing.",
+        "Muscle": "Shoulders",
+        "Equipment": "Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "8302",
+        "Name": "Arnold Press (Heavy)",
+        "Details": "Perform the Arnold press with maximum weight while maintaining control.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "8303",
+        "Name": "Push Press",
+        "Details": "Use leg drive to assist in pressing a barbell overhead with a heavier load.",
+        "Muscle": "Shoulders",
+        "Equipment": "Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "8304",
+        "Name": "Cable Lateral Raises (Drop Set)",
+        "Details": "Perform lateral raises with a cable machine and reduce weight incrementally.",
+        "Muscle": "Shoulders",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "8305",
+        "Name": "Dumbbell Front Raises (Alternating, Heavy)",
+        "Details": "Use heavier dumbbells to perform alternating front raises.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "8306",
+        "Name": "Incline Dumbbell Lateral Raises",
+        "Details": "Lie on an incline bench to isolate and target the side delts.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells, Incline Bench",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "8307",
+        "Name": "Handstand Push-Ups (Against Wall)",
+        "Details": "Progress to free-standing handstand push-ups for strength and stability.",
+        "Muscle": "Shoulders",
+        "Equipment": "None",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "8308",
+        "Name": "Face Pulls with Bands",
+        "Details": "Use heavy resistance bands for controlled face pulls targeting the rear delts.",
+        "Muscle": "Shoulders",
+        "Equipment": "Resistance Bands",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "8309",
+        "Name": "Kettlebell Bottoms-Up Press",
+        "Details": "Press a kettlebell upside-down to challenge grip and shoulder stability.",
+        "Muscle": "Shoulders",
+        "Equipment": "Kettlebell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "8310",
+        "Name": "Landmine Press with Rotation",
+        "Details": "Incorporate torso rotation into the landmine press for added intensity.",
+        "Muscle": "Shoulders",
+        "Equipment": "Landmine Attachment",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "8311",
+        "Name": "Barbell Shrugs with Resistance Bands",
+        "Details": "Add bands to barbell shrugs for variable resistance.",
+        "Muscle": "Shoulders",
+        "Equipment": "Barbell, Resistance Bands",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "8312",
+        "Name": "Overhead Dumbbell Hold (Isometric)",
+        "Details": "Hold dumbbells overhead for time to build stability and endurance.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "8313",
+        "Name": "Y-Raises on an Incline Bench",
+        "Details": "Use light weights to perform Y-raises for shoulder mobility and stability.",
+        "Muscle": "Shoulders",
+        "Equipment": "Dumbbells, Incline Bench",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "8314",
+        "Name": "Trap Bar Overhead Press",
+        "Details": "Use a trap bar for pressing to challenge mobility and strength.",
+        "Muscle": "Shoulders",
+        "Equipment": "Trap Bar",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "8315",
+        "Name": "Snatch-Grip Overhead Press",
+        "Details": "Use a wide grip for pressing a barbell overhead to target the shoulders differently.",
+        "Muscle": "Shoulders",
+        "Equipment": "Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "8316",
+        "Name": "Wall Handstand Hold",
+        "Details": "Use a wall for support and hold a handstand position to activate shoulder muscles.",
+        "Muscle": "Shoulders",
+        "Equipment": "Wall",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    },
+    {
+        "Id": "9101",
+        "Name": "Tricep Dips (Assisted)",
+        "Details": "Use a bench or parallel bars with assistance.",
+        "Muscle": "Triceps",
+        "Equipment": "Bench, Parallel Bars, Assistance",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "9102",
+        "Name": "Overhead Dumbbell Extensions",
+        "Details": "Hold a dumbbell and extend your arms overhead.",
+        "Muscle": "Triceps",
+        "Equipment": "Dumbbell",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "9103",
+        "Name": "Tricep Kickbacks",
+        "Details": "Bend forward and straighten your arms back with dumbbells.",
+        "Muscle": "Triceps",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "9104",
+        "Name": "Close-Grip Push-Ups",
+        "Details": "Place hands close together during push-ups.",
+        "Muscle": "Triceps",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "9105",
+        "Name": "Resistance Band Pushdowns",
+        "Details": "Attach a band and push it downward.",
+        "Muscle": "Triceps",
+        "Equipment": "Resistance Bands",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "9106",
+        "Name": "Dumbbell Skull Crushers",
+        "Details": "Lie on a bench and lower dumbbells to your forehead.",
+        "Muscle": "Triceps",
+        "Equipment": "Dumbbells, Bench",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "9107",
+        "Name": "Cable Rope Pushdowns",
+        "Details": "Use a cable machine with a rope attachment.",
+        "Muscle": "Triceps",
+        "Equipment": "Cable Machine, Rope Attachment",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "9108",
+        "Name": "Triangle Push-Ups",
+        "Details": "Form a triangle with your hands during push-ups.",
+        "Muscle": "Triceps",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "9109",
+        "Name": "Isometric Tricep Hold",
+        "Details": "Hold a resistance band in a pushdown position.",
+        "Muscle": "Triceps",
+        "Equipment": "Resistance Band",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "9110",
+        "Name": "Overhead Tricep Stretch",
+        "Details": "Stretch your triceps by pulling one arm behind your head.",
+        "Muscle": "Triceps",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "9111",
+        "Name": "Reverse Push-Ups",
+        "Details": "Sit on the ground with hands behind you and push up.",
+        "Muscle": "Triceps",
+        "Equipment": "None",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "9112",
+        "Name": "Band Overhead Extensions",
+        "Details": "Use a resistance band for overhead tricep work.",
+        "Muscle": "Triceps",
+        "Equipment": "Resistance Bands",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "9113",
+        "Name": "Tricep Bench Press",
+        "Details": "Use a narrow grip to emphasize triceps.",
+        "Muscle": "Triceps",
+        "Equipment": "Bench, Barbell",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "9114",
+        "Name": "Chair Dips",
+        "Details": "Use a chair for beginner dips.",
+        "Muscle": "Triceps",
+        "Equipment": "Chair",
+        "Difficulty": "Easy",
+        "Home": "Yes"
+    },
+    {
+        "Id": "9115",
+        "Name": "Parallel Bar Dips (Assisted)",
+        "Details": "Use resistance bands for help.",
+        "Muscle": "Triceps",
+        "Equipment": "Parallel Bars, Resistance Bands",
+        "Difficulty": "Easy",
+        "Home": "No"
+    },
+    {
+        "Id": "9201",
+        "Name": "Close-Grip Bench Press",
+        "Details": "Use a narrower grip on the barbell to target triceps.",
+        "Muscle": "Triceps",
+        "Equipment": "Barbell, Bench",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "9202",
+        "Name": "Dumbbell Overhead Triceps Extension",
+        "Details": "Use a heavier dumbbell for more resistance.",
+        "Muscle": "Triceps",
+        "Equipment": "Dumbbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "9203",
+        "Name": "Skull Crushers (Barbell)",
+        "Details": "Lie on a bench and lower a barbell to your forehead, then press back up.",
+        "Muscle": "Triceps",
+        "Equipment": "Barbell, Bench",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "9204",
+        "Name": "Weighted Dips",
+        "Details": "Add a weight plate or use a dip belt for resistance during dips.",
+        "Muscle": "Triceps",
+        "Equipment": "Dip Belt, Weight Plate, Parallel Bars",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "9205",
+        "Name": "Cable Tricep Pushdowns",
+        "Details": "Use a straight or angled bar on the cable machine with heavier weight.",
+        "Muscle": "Triceps",
+        "Equipment": "Cable Machine, Straight/Angled Bar",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "9206",
+        "Name": "Rope Overhead Extensions",
+        "Details": "Use a rope attachment on a cable machine for overhead tricep work.",
+        "Muscle": "Triceps",
+        "Equipment": "Cable Machine, Rope Attachment",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "9207",
+        "Name": "Diamond Push-Ups",
+        "Details": "Perform push-ups with hands close together in a diamond shape.",
+        "Muscle": "Triceps",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "9208",
+        "Name": "Incline Skull Crushers",
+        "Details": "Perform skull crushers on an incline bench for a longer range of motion.",
+        "Muscle": "Triceps",
+        "Equipment": "Barbell, Incline Bench",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "9209",
+        "Name": "Seated Overhead Dumbbell Extensions",
+        "Details": "Sit and use both hands to lift a heavier dumbbell.",
+        "Muscle": "Triceps",
+        "Equipment": "Dumbbell",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "9210",
+        "Name": "Tricep Kickbacks (Heavy)",
+        "Details": "Use heavier dumbbells to target the triceps.",
+        "Muscle": "Triceps",
+        "Equipment": "Dumbbells",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "9211",
+        "Name": "Cable Reverse Grip Pushdowns",
+        "Details": "Use an underhand grip for tricep isolation.",
+        "Muscle": "Triceps",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "9212",
+        "Name": "Parallel Bar Dips (Weighted)",
+        "Details": "Use a dip belt for added resistance.",
+        "Muscle": "Triceps",
+        "Equipment": "Parallel Bars, Dip Belt",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "9213",
+        "Name": "Bench Dips",
+        "Details": "Place your feet on a raised platform to increase difficulty.",
+        "Muscle": "Triceps",
+        "Equipment": "Bench, Raised Platform",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "9214",
+        "Name": "Incline Close-Grip Push-Ups",
+        "Details": "Perform close-grip push-ups with feet elevated.",
+        "Muscle": "Triceps",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "9215",
+        "Name": "Overhead Cable Triceps Extension",
+        "Details": "Use a cable machine for controlled overhead extensions.",
+        "Muscle": "Triceps",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Medium",
+        "Home": "No"
+    },
+    {
+        "Id": "9216",
+        "Name": "Diamond Push-Ups",
+        "Details": "Perform push-ups with hands close together in a diamond shape.",
+        "Muscle": "Triceps",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "9217",
+        "Name": "Tricep Dips on a Chair",
+        "Details": "Use a sturdy chair to perform dips with legs extended.",
+        "Muscle": "Triceps",
+        "Equipment": "Chair",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "9218",
+        "Name": "Overhead Extensions with Water Bottle",
+        "Details": "Hold a filled bottle or similar item and extend overhead.",
+        "Muscle": "Triceps",
+        "Equipment": "Water Bottle",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "9219",
+        "Name": "Close-Grip Push-Ups",
+        "Details": "Keep hands close together while performing push-ups.",
+        "Muscle": "Triceps",
+        "Equipment": "None",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "9220",
+        "Name": "Towel Tricep Kickbacks",
+        "Details": "Use a towel wrapped around an object to mimic kickback movements.",
+        "Muscle": "Triceps",
+        "Equipment": "Towel, Object",
+        "Difficulty": "Medium",
+        "Home": "Yes"
+    },
+    {
+        "Id": "9301",
+        "Name": "Weighted Dips (Heavy)",
+        "Details": "Perform dips with multiple weight plates on a dip belt for max overload.",
+        "Muscle": "Triceps",
+        "Equipment": "Dip Belt, Weight Plates",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "9302",
+        "Name": "Close-Grip Bench Press (Paused Reps)",
+        "Details": "Pause at the bottom of each rep for added tension on the triceps.",
+        "Muscle": "Triceps",
+        "Equipment": "Barbell, Bench",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "9303",
+        "Name": "Overhead Dumbbell Extensions (Heavy)",
+        "Details": "Use a heavier dumbbell and perform the exercise with strict form.",
+        "Muscle": "Triceps",
+        "Equipment": "Dumbbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "9304",
+        "Name": "Skull Crushers with Chains",
+        "Details": "Attach chains to the barbell for varying resistance during skull crushers.",
+        "Muscle": "Triceps",
+        "Equipment": "Barbell, Chains",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "9305",
+        "Name": "Reverse-Grip Bench Press",
+        "Details": "Use an underhand grip to target the long head of the triceps.",
+        "Muscle": "Triceps",
+        "Equipment": "Barbell, Bench",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "9306",
+        "Name": "Cable Rope Tricep Pushdowns (Drop Set)",
+        "Details": "Perform a drop set to failure with a rope attachment.",
+        "Muscle": "Triceps",
+        "Equipment": "Cable Machine, Rope Attachment",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "9307",
+        "Name": "Ring Dips (Weighted)",
+        "Details": "Add weight and use gymnastics rings to increase stability challenges.",
+        "Muscle": "Triceps",
+        "Equipment": "Rings, Dip Belt",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "9308",
+        "Name": "JM Press",
+        "Details": "Perform this hybrid movement between a bench press and a skull crusher with heavier weight.",
+        "Muscle": "Triceps",
+        "Equipment": "Barbell, Bench",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "9309",
+        "Name": "Incline Dumbbell Overhead Extensions",
+        "Details": "Perform overhead extensions on an incline bench for a greater stretch.",
+        "Muscle": "Triceps",
+        "Equipment": "Dumbbells, Incline Bench",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "9310",
+        "Name": "Single-Arm Cable Pushdowns",
+        "Details": "Use a cable machine to isolate each tricep individually.",
+        "Muscle": "Triceps",
+        "Equipment": "Cable Machine",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "9311",
+        "Name": "Overhead Barbell Extension",
+        "Details": "Use a barbell for overhead extensions with heavy resistance.",
+        "Muscle": "Triceps",
+        "Equipment": "Barbell",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "9312",
+        "Name": "Board Press",
+        "Details": "Use a wooden board to reduce the range of motion and target the triceps during a bench press.",
+        "Muscle": "Triceps",
+        "Equipment": "Barbell, Wooden Board",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "9313",
+        "Name": "Chain Dips",
+        "Details": "Perform dips with chains draped around your shoulders for progressive resistance.",
+        "Muscle": "Triceps",
+        "Equipment": "Chains, Dip Belt",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "9314",
+        "Name": "Kettlebell Overhead Press",
+        "Details": "Use kettlebells for overhead triceps activation with a focus on stability.",
+        "Muscle": "Triceps",
+        "Equipment": "Kettlebells",
+        "Difficulty": "Hard",
+        "Home": "No"
+    },
+    {
+        "Id": "9315",
+        "Name": "Tricep Push-Ups on Medicine Ball",
+        "Details": "Perform push-ups with both hands on a medicine ball to challenge tricep stability.",
+        "Muscle": "Triceps",
+        "Equipment": "Medicine Ball",
+        "Difficulty": "Hard",
+        "Home": "Yes"
+    }
+]
